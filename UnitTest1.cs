@@ -6,7 +6,7 @@ namespace CI_CD_VS
         [TestMethod]
         public void TestIva()
         {
-            Assert.AreEqual(8, 7);
+            Assert.AreEqual(8, 9);
         }
     }
 }
